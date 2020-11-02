@@ -1,0 +1,26 @@
+﻿@{
+    ViewData["Title"] = "IP:port's";
+}
+<h1>@ViewData["Title"]</h1>
+
+
+<ul>
+    @foreach (String s in ViewBag.Param)
+    {
+        <li>@s</li>
+    }
+    </ul>
+
+
+        <form method="post" action="/Home/Privacy2">
+
+            <input size="100" name="list" value="192.168.100.38:10000,192.168.100.38:10001" />
+            <br>
+            <br>
+            <input type="submit" />
+        </form>
+        <ul>
+            <li>в одну строку</li>
+            <li>без пробелов</li>
+            <li>разделять запятой</li>
+        </ul>

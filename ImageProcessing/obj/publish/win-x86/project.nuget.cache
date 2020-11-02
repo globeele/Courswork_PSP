@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "dwjnanInsQ7ixGjZdP899htjkzRbsKyhiGwq/jw2xiNleeNxvQPoQhAVJaKlO2wxcCo1ATSjGu2Jos7s7dVbyA==",
+  "success": true,
+  "projectFilePath": "C:\\visual\\ImageProcessing\\ImageProcessing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dima\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.7\\microsoft.netcore.app.runtime.win-x86.3.1.7.nupkg.sha512",
+    "C:\\Users\\Dima\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.7\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.7.nupkg.sha512",
+    "C:\\Users\\Dima\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.1.7\\microsoft.aspnetcore.app.runtime.win-x86.3.1.7.nupkg.sha512"
+  ],
+  "logs": []
+}

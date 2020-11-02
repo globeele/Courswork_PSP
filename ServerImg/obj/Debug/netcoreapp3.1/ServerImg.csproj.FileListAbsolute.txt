@@ -1,0 +1,13 @@
+C:\visual\ServerImg\bin\Debug\netcoreapp3.1\ServerImg.exe
+C:\visual\ServerImg\bin\Debug\netcoreapp3.1\ServerImg.deps.json
+C:\visual\ServerImg\bin\Debug\netcoreapp3.1\ServerImg.runtimeconfig.json
+C:\visual\ServerImg\bin\Debug\netcoreapp3.1\ServerImg.runtimeconfig.dev.json
+C:\visual\ServerImg\bin\Debug\netcoreapp3.1\ServerImg.dll
+C:\visual\ServerImg\bin\Debug\netcoreapp3.1\ServerImg.pdb
+C:\visual\ServerImg\obj\Debug\netcoreapp3.1\ServerImg.AssemblyInfoInputs.cache
+C:\visual\ServerImg\obj\Debug\netcoreapp3.1\ServerImg.AssemblyInfo.cs
+C:\visual\ServerImg\obj\Debug\netcoreapp3.1\ServerImg.csproj.CoreCompileInputs.cache
+C:\visual\ServerImg\obj\Debug\netcoreapp3.1\ServerImg.dll
+C:\visual\ServerImg\obj\Debug\netcoreapp3.1\ServerImg.pdb
+C:\visual\ServerImg\obj\Debug\netcoreapp3.1\ServerImg.genruntimeconfig.cache
+C:\visual\ServerImg\obj\Debug\netcoreapp3.1\ServerImg.csprojAssemblyReference.cache

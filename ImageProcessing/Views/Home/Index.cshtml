@@ -1,0 +1,28 @@
+﻿@{
+    ViewData["Title"] = "Курсовая работа";
+}
+
+<input type="file" id="file-id" />
+<br>
+<button id="but">Однопоточно</button><br>
+  t, млс мкc:
+<input size="30" type="text" id="t1" />
+<br>
+<ul>
+    @foreach (String s in ViewBag.Param)
+    {
+        <li>@s</li>
+    }
+</ul>
+
+<form action="javascript:void(0);" method="POST" onsubmit="fun()">
+    <input type="submit" value="Многопоточно" />
+</form>
+                t, млс мкc:
+<input size="30" type="text" id="t2" />
+<br />
+<br />
+
+<img id="img-id" />
+<br />
+<br />
